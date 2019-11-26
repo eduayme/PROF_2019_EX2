@@ -9,7 +9,6 @@ import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertEquals;
 
 public class ClaseExamenTest {
-
     ClaseExamen clasePrimos = new ClaseExamen();
 
     @Test(expected = ClaseExamen.EntradaInvalida.class)
